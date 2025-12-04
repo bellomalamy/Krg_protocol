@@ -1,0 +1,6 @@
+{
+  "prev_state_hash": "0000abcd",
+  "new_state_hash": "1234efgh",
+  "nonce": 1,
+  "signature": "placeholder_signature"
+}
