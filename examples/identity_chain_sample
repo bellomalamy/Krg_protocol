@@ -1,8 +1,0 @@
-{
-  "identity_root_hash": "abcd1234",
-  "claims": [
-    "NIN_verified",
-    "Age_verified",
-    "KRG_device_identity"
-  ]
-}
